@@ -1,15 +1,15 @@
 # API_Flourish
-    Desenvolvimento da api para a solução proposta no Mega Hack.
+Desenvolvimento da api para a solução proposta no Mega Hack.
 
 ### Primeiros passos
-    In terminal execute:
+In terminal execute:
 
-    Install dependencies:
+Install dependencies:
 
     ```bash
     $ npm i --save
     ```
-    Start the server:
+Start the server:
 
     ```bash
     $ npm start
