@@ -6,12 +6,12 @@ In terminal execute:
 
 Install dependencies:
 
-    ```bash
-    $ npm i --save
-    ```
+```bash
+$ npm i --save
+```
 Start the server:
 
-    ```bash
-    $ npm start
-    ```
+```bash
+$ npm start
+```
 
